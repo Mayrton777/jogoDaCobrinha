@@ -1,6 +1,6 @@
 ## Jogo da Cobra em Pygame
 
-Este é um simples jogo da cobra implementado em Python usando a biblioteca Pygame. O projeto foi inspirado em tutoriais do canal [João Tinti]. O jogo consiste em controlar uma cobra que se move pela tela, coletando maçãs para ganhar pontos. A cobra cresce a cada maçã coletada, aumentando o desafio.
+Este é um simples jogo da cobra implementado em Python usando a biblioteca Pygame. O projeto foi inspirado em tutoriais do canal [João Tinti](https://www.youtube.com/@joao-tinti). O jogo consiste em controlar uma cobra que se move pela tela, coletando maçãs para ganhar pontos. A cobra cresce a cada maçã coletada, aumentando o desafio.
 
 ## Pré-requisitos
 Certifique-se de ter o Pygame instalado em seu ambiente Python. Você pode instalá-lo executando o seguinte comando:
@@ -28,7 +28,7 @@ pip install pygame
 O jogo possui trilha sonora de fundo e efeitos sonoros. Certifique-se de ter os arquivos de áudio nas pastas corretas conforme especificado no código.
 
 ## Agradecimentos
-Este projeto foi inspirado nos tutoriais do canal [João Tinti]. Agradeço pela inspiração e pelo conhecimento compartilhado.
+Este projeto foi inspirado nos tutoriais do canal [João Tinti](https://www.youtube.com/@joao-tinti). Agradeço pela inspiração e pelo conhecimento compartilhado.
 
 Desenvolvido por: Mayrton
 
