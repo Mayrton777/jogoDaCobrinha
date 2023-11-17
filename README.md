@@ -32,8 +32,6 @@ Este projeto foi inspirado nos tutoriais do canal [João Tinti](https://www.yout
 
 Desenvolvido por: Mayrton
 
-## Atribuições de Áudio
+## Licença
 
-Música de Fundo: [fundo].
-Efeito Sonoro de Moeda: [coin].
-Licença: Este projeto é distribuído sob a licença [GNU GENERAL PUBLIC LICENSE].
+Licença: Este projeto é distribuído sob a licença GNU GENERAL PUBLIC LICENSE.Consulte o arquivo LICENSE.md para obter mais detalhes.
